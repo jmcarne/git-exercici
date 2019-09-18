@@ -1,0 +1,2 @@
+# git-exercici
+Test exercise

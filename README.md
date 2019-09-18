@@ -1,9 +1,12 @@
-Git Test Exercise
-Description
+# Git Test Exercise
+
+# Description
 Test exercise for use and practice with GitHub.
-Format file
+
+# Format file
 This file has format md (MARKDOWN)
-Requirements
+
+# Requirements
 You will need to have installed in your PC:
 
 Operating System Windows 7, 8 and 10
@@ -11,20 +14,17 @@ Operating System Windows 7, 8 and 10
 SQL Server 2012 database
 You'll need to have installed in your PC Line:
 
-Operating System Windows 7, 8 and 10
-.NET Framework 4.5
-SQL Server 2012 database
-Installation
+# Installation
 To install thIs project located in git-exercise repository, it's not necesary to do any step:
 
-Application access
+# Application access
 To access to git-exercise repository, it's not necesary any previous step:
 
-Available roles defined in git-exercise repository
+# Available roles defined in git-exercise repository
 None role
 
-Database table
-None SQL database
+# Database table
+MySQL database
 
-Usage
+# Usage
 Only test usage
